@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/f58EOPS2gYOzFxpEQPW53tinPKxzgHJIwFUwcW9DTX0L/0skJvnDNd6Aah9axEfoUSeOw/68KWoasJQLHMJQ==",
+  "success": true,
+  "projectFilePath": "/home/thiago_gasbarro/Documents/dotnet-vaquinha-tests-master/dotnet-vaquinha-tests-master.csproj",
+  "expectedPackageFiles": [
+    "/home/thiago_gasbarro/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/thiago_gasbarro/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
